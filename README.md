@@ -17,11 +17,4 @@ Instead of manually saving assets from Chrome DevTools, the script collects all 
 1. Copy `.glb` links from Chrome DevTools → Network tab.  
    *(Tip: Right-click → Copy → Copy all as HAR, then extract only the URLs.)*  
 2. Paste the links into a text file (`glb_links.txt`).  
-3. Run the script to download all models.  
-
----
-
-## 🚀 Usage
-Install requirements:
-```bash
-pip install -r requirements.txt
+3. Run the script to download all models. 
